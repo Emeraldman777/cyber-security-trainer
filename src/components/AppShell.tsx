@@ -29,7 +29,7 @@ export function AppShell({ children }: AppShellProps) {
             type="button"
           >
             <Sparkles className="h-4 w-4 text-orange-300" aria-hidden="true" />
-            MVP training build
+            #КиберПраво
           </button>
         </header>
         <div className="flex flex-1 flex-col">{children}</div>
